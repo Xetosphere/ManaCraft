@@ -6,6 +6,9 @@
 /gradlew.bat
 
 ## ForgeGradle
+/run
+
+## eclipse
 /eclipse
 /.settings
 /.metadata
