@@ -1,0 +1,21 @@
+[
+{
+  "modid": "xmc",
+  "name": "Mana Craft",
+  "description": "Magic, mystery and wonders! All are great words to describe what this mod is all about and what it contains.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "xetosphere"
+  ],
+  "credits": "Coming soon.",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]

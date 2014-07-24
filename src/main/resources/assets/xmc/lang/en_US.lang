@@ -1,0 +1,4 @@
+item.xmc:wand.name=Wand
+item.xmc:spellBook.name=Spell Book
+
+itemGroup.xmc=Mana Craft
